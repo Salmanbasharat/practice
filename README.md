@@ -1,4 +1,4 @@
 # practice
 
 ### This is a project
-<img src='p.png'></img>
+<img src='./p.png'></img>
