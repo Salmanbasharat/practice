@@ -1,7 +1,7 @@
 # **Cafe Chain Analysis- Team 5 (Ehsan, Kirti, Salman, Samiul)**
 
 ## **Selection of Topic**
-This is the analysis of a *Cafe chain* business which wants to understand its customers and their preferences.
+This is the analysis of a *Cafe chain* business which wants to understand its customers.
 
 ## **Reason Why We Selected This Topic**
 
