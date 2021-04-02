@@ -163,7 +163,7 @@ We are developing an interactive Web Application to help Management of the Cafe 
 ### **Machine Learning Model**
 We are analyzing the dataset with different machine learning models to predict the following:​​
 
-	* Recommending Food/Drink Items as per their    		 Demographics and Preferences​
+	* Recommending Food/Drink Items as per their Demographics and Preferences​
 
 	* Identifying/Predicting the Regular Customer​
 
